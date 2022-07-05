@@ -1,4 +1,4 @@
-<h1 align= center>File To Link Bot - TeLe TiPs</h1>
+<h1 align= center>File To Link Bot - Helpsomeone</h1>
 <h3 align = center>Telegram bot to provide links of different types of files you send. </h3>
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
