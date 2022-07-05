@@ -1,7 +1,7 @@
 {
-    "name": "FileToLinkTeLeTiPs",
+    "name": "FileToLinkHelpsomeone",
     "description": "Bot to provide links of different types of files you send.",
-    "website": "https://FileToLinkTeLeTiPs/",
+    "website": "https://FileToLinkHelpsomeone/",
     "repository": "https://github.com/Helpsomeone/FileToLink",
     "env": {
           "TG_BOT_TOKEN": {"description": "Your Bot's Token From BotFather Bot","required": true}
