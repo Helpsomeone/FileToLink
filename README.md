@@ -19,7 +19,7 @@ Is it a nuisance to send huge files to others? File To Link Bot is for you.This 
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/FileToLink)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Helpsomeone/FileToLink)
 
 ## Config Vars
 1. `BOT_TOKEN` : A Valid Telegram Bot Token, get it from @Botfather
@@ -31,12 +31,12 @@ Is it a nuisance to send huge files to others? File To Link Bot is for you.This 
 - Bot will send a shorten link of that file to you.
 ```
 ## Credits
-- [TeLe TiPs](https://github.com/teletips)
+- [Helpsomeone](https://github.com/Helpsomeone)
 
 ## Friendly Warning
 
 - You are free to use this code in any of your projects, but you MUST include the following in your README.md (Copy & paste)
 ```
 ##Credits
-- [File To Link Telegram bot by TeLe TiPs] (https://github.com/teletips/FileToLink)
+- [File To Link Telegram bot by Helpsomeone] (https://github.com/Helpsomeone/FileToLink)
 ```
